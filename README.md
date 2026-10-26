@@ -25,6 +25,24 @@ Durante el desarrollo he intentado depender lo mínimo del ratón. Los atajos qu
 * **`Ctrl + Shift + Flechas (Arriba/Abajo)`:** Para mover líneas o bloques de código enteros hacia arriba o hacia abajo sin tener que cortar y pegar.
 * **`Alt + Flechas (Izquierda/Derecha)`:** Para cambiar rápidamente entre las pestañas de los archivos que tengo abiertos en el editor.
 
+* ## 🛠️ Cómo compilar y ejecutar
+
+**Requisitos del entorno:**
+* **JDK:** Versión 26.
+* **Gestor de dependencias:** Maven.
+
+**Pasos para ejecutar el proyecto:**
+1. Clona este repositorio en tu máquina local ejecutando el siguiente comando en la terminal:
+   git clone https://github.com/tu-usuario/kata1.git
+
+2. Haga clic derecho sobre el archivo Main.java y seleccione la opción Run 'Main.main()'.
+
+**Evidencias de verificación**
+Al ejecutar el Main, el sistema instancia correctamente a los objetos de tipo Person.
+
+* **Salida Esperada:**
+Person{name='Jorge', age=20}
+
 ## Vídeo explicativo
 Aquí dejo el enlace al vídeo donde enseño cómo he hecho todo esto, muestro el uso de los atajos y el historial de Git:
 [Ver vídeo explicativo (YouTube)] (https://youtu.be/073rDLMudEo)
