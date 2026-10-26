@@ -37,7 +37,7 @@ Durante el desarrollo he intentado depender lo mínimo del ratón. Los atajos qu
 
 2. Haga clic derecho sobre el archivo Main.java y seleccione la opción Run 'Main.main()'.
 
-**Evidencias de verificación**
+**Evidencias de verificación:**
 Al ejecutar el Main, el sistema instancia correctamente a los objetos de tipo Person.
 
 * **Salida Esperada:**
