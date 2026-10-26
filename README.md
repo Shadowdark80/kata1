@@ -26,4 +26,4 @@ Durante el desarrollo he intentado depender lo mínimo del ratón. Los atajos qu
 
 ## Vídeo explicativo
 Aquí dejo el enlace al vídeo donde enseño cómo he hecho todo esto, muestro el uso de los atajos y el historial de Git:
-[Ver vídeo explicativo (YouTube)]([https://youtu.be/4tzMQVnvPqA](https://youtu.be/073rDLMudEo))
+[Ver vídeo explicativo (YouTube)] (https://youtu.be/073rDLMudEo)
