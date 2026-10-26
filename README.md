@@ -5,6 +5,7 @@ Este es el repositorio de la primera Kata de Ingeniería de Software II. El obje
 ## ¿Qué incluye el proyecto?
 * **Java:** He creado unas clases básicas (como `Person` y `Main`). La idea ha sido usar `record` para hacerlas inmutables, añadir constructores, métodos de cálculo de edad y sobreescribir el `toString()`. También he usado la API `java.time`.
 * **Configuración Maven (`pom.xml`):** Tuve que ajustar las propiedades del compilador para que usara explícitamente Java 26 (`maven.compiler.source` y `target` en 26), ya que me estaba dando problemas de compatibilidad con versiones superiores (target 27).
+* **Paquete:** El paquete base de esta kata es el *software.ulpgc.katas*.
 * **Limpieza (`.gitignore`):** Configuré el archivo para no subir archivos indeseados al repositorio. He ignorado las carpetas generadas al compilar (`target/` y `out/`), además de archivos binarios y comprimidos (`*.class`, `*.jar`, `*.zip`).
 
 ## Repetición y ramas (Git / GitHub)
