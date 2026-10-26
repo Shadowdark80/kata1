@@ -25,7 +25,7 @@ Durante el desarrollo he intentado depender lo mínimo del ratón. Los atajos qu
 * **`Ctrl + Shift + Flechas (Arriba/Abajo)`:** Para mover líneas o bloques de código enteros hacia arriba o hacia abajo sin tener que cortar y pegar.
 * **`Alt + Flechas (Izquierda/Derecha)`:** Para cambiar rápidamente entre las pestañas de los archivos que tengo abiertos en el editor.
 
-* ## 🛠️ Cómo compilar y ejecutar
+* ## Cómo compilar y ejecutar
 
 **Requisitos del entorno:**
 * **JDK:** Versión 26.
